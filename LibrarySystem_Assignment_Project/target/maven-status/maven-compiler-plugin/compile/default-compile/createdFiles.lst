@@ -1,0 +1,12 @@
+org\example\NotAtLeastOneAuthorProvided.class
+org\example\Lending.class
+TextGui\GUI.class
+TextGui\DummyData.class
+TextGui\MainGUI.class
+org\example\User.class
+org\example\UserOrBookDoesNotExistException.class
+org\example\Author.class
+org\example\Student.class
+org\example\LibrarySystem.class
+org\example\Book.class
+org\example\FacultyMember.class
